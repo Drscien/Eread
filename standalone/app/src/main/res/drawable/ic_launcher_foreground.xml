@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.9"
+        android:scaleY="0.9">
+
+    <!-- 人：头与肩 -->
+    <path
+        android:pathData="M54,30.5 a8.2,8.2 0 1,0 0.01,0"
+        android:strokeColor="#8CB4FF"
+        android:strokeWidth="3.4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M41.5,61 C41.5,51.5 47.2,47.5 54,47.5 C60.8,47.5 66.5,51.5 66.5,61"
+        android:strokeColor="#8CB4FF"
+        android:strokeWidth="3.4"
+        android:strokeLineCap="round" />
+
+    <!-- 书：摊开的双页 -->
+    <path
+        android:pathData="M29,67.5 C37.5,62.5 46.5,62.5 54,66.5 C61.5,62.5 70.5,62.5 79,67.5 L79,80.5 C70.5,75.5 61.5,75.5 54,79.5 C46.5,75.5 37.5,75.5 29,80.5 Z"
+        android:strokeColor="#8CB4FF"
+        android:strokeWidth="3.4"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M54,66.5 L54,79.5"
+        android:strokeColor="#8CB4FF"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round" />
+    </group>
+</vector>
