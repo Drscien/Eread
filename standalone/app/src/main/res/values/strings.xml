@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_service_desc">用于识别当前屏幕上的文字，并把阅读位置同步给 Eread。只在点击「识别当前页」时截取一帧，不做持续监听。</string>
+</resources>

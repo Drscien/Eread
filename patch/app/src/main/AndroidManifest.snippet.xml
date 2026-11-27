@@ -1,0 +1,5 @@
+<!-- 加在 application 标签内，任意位置 -->
+<provider
+    android:name="io.legado.app.ui.book.read.trace.TraceInitializer"
+    android:authorities="${applicationId}.trace"
+    android:exported="false" />

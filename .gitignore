@@ -1,0 +1,23 @@
+# Android
+standalone/.gradle/
+standalone/build/
+standalone/app/build/
+standalone/local.properties
+standalone/.idea/
+*.iml
+*.apk
+*.aab
+captures/
+.cxx/
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# local publish staging
+publish/
+standalone/build.log
+*.bundle
